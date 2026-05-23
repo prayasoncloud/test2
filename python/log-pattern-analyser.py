@@ -50,4 +50,5 @@ def print_report(log_file):
 
 if __name__ == "__main__":
     target_log_file = "test_app.log" 
+    
     print_report(target_log_file)
